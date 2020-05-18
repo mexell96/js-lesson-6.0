@@ -1,0 +1,15 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    
+}
+.beader {
+    font-weight: bold;
+}
+ul {
+    font-weight: 100;
+}
+li {
+    background-color: aquamarine;
+    border: 1px solid black;
+}
